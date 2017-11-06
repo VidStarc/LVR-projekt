@@ -1,4 +1,3 @@
-from boolean import *
 from random import randint
 from random import shuffle
 import operator
