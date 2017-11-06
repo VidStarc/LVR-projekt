@@ -1,4 +1,4 @@
-# LVR-projekt Paula Vouk, Vid Starc Jasna Cehner
+# LVR-projekt Paula Vouk, Vid Starc, Jasna Cehner
 
 Run in terminal:
 
